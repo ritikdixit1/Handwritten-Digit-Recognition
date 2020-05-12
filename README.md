@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition
-Handwritten Digit Recognition us CNN
+Handwritten Digit Recognition using CNN
